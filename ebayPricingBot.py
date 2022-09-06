@@ -4,7 +4,7 @@ from datetime import date
 import requests
 import pandas as pd
 
-# Testing URL - can be reomved
+# Testing URL - can be removed
 # url1 = 'https://www.ebay.com/sch/i.html?_from=R40&_nkw=commercial+refrigeration+equipment&_sacat=0&rt=nc&LH_Sold=1&LH_Complete=1&_pgn=4'
 
 # Parent URL link
