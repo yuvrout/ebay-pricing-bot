@@ -1,0 +1,1 @@
+This is a webscrapper/bot that logs into eBay, searches through all products sold in the last week within the commercial refrigeration area for both refrigeration equipment and parts. The output of the data is provided on a google sheet.
