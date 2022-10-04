@@ -159,7 +159,6 @@ def get_remaining_item(part_detail_url):
 #
 def output(partslist):
    partsdf = pd.DataFrame(partslist)
- 
    partsdf.to_csv(output_file, index=False)
    print('Saved to CSV')
    return
