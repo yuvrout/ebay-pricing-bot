@@ -1,7 +1,9 @@
 Objective: 
+
 -Allow administrators to view what products have been sold (not listed) on the eBay platform and for what price and date that the specific product was sold.
 
 Tasks:
+
 -Create a bot that logs into EBay, and searches through all products sold in the last week within the commercial refrigeration for both refrigeration and parts. 
 -Filter out products that contain any type of HVAC equipment.
 -Output the following fields into a deliverable: Date Scanned, Item Name, Model Number, Seller, Location of Item, Price Listed, Price Sold
